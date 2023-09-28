@@ -1,0 +1,11 @@
+.home__div {
+    width: 100%;
+     display: flex;
+     justify-content: center !important;
+   
+}
+.home__divs {
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+}
